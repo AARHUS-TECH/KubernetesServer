@@ -3,7 +3,8 @@
 [Intro]
 
 ## Suggested Study
-* 
+* Docker Crash Course for Absolute Beginners [NEW] - TechWorld with Nana
+* Kubernetes Crash Course for Absolute Beginners [NEW] - TechWorld with Nana
 
 ## Kubernetes
 
