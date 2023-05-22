@@ -14,7 +14,7 @@
 ## Control software
 [Choose a system to help yoou control the Kubernetes cluster]
 
-## Rancher Desktop or komodor or ...
+## Rancher Desktop or Komodor or ...
 
 [How does it work - What is needed]
 
