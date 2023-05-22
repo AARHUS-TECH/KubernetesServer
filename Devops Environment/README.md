@@ -13,3 +13,6 @@
 [In the Myriad of different technology that is available for software development - what will you recomment]
 
 ![image](https://github.com/AARHUS-TECH/KubernetesServer/assets/44589560/612b347f-cd32-40ee-b7af-2cb16f9d0eb6)
+
+
+## Træningsprogram
