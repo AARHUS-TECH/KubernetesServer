@@ -1,6 +1,6 @@
 # Devops Environment
 
-[Why - what - how]
+[todo - Introduktion til Devops, hvorfor hvordan]
 
 ![image](https://github.com/AARHUS-TECH/KubernetesServer/assets/44589560/d4b1d6c0-a1eb-49bb-9c6e-19feb58a8907)
 
