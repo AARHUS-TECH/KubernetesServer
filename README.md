@@ -11,9 +11,12 @@
 
 [What is a container]
 
-## Rancher Desktop
+## Control software
+[Choose a system to help yoou control the Kubernetes cluster]
 
-[How does it work]
+## Rancher Desktop or komodor or ...
+
+[How does it work - What is needed]
 
 ![image](https://github.com/AARHUS-TECH/KubernetesServer/assets/44589560/c2022613-435e-42b2-b547-aea8dc5b5b0d)
 
