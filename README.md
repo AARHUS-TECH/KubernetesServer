@@ -17,3 +17,5 @@
 
 ![image](https://github.com/AARHUS-TECH/KubernetesServer/assets/44589560/c2022613-435e-42b2-b547-aea8dc5b5b0d)
 
+[Building and running containers]
+
