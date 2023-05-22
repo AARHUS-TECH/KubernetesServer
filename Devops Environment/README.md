@@ -4,14 +4,9 @@
 
 ![image](https://github.com/AARHUS-TECH/KubernetesServer/assets/44589560/d4b1d6c0-a1eb-49bb-9c6e-19feb58a8907)
 
-## GitLab server
+## Forslag til studie før du/I laver opgaven
 
-![image](https://github.com/AARHUS-TECH/KubernetesServer/assets/44589560/935cb334-b098-4635-806c-a34bf3ec11d7)
-
-## Technology
-[In the Myriad of different technology that is available for software development - what will you recomment]
-
-![image](https://github.com/AARHUS-TECH/KubernetesServer/assets/44589560/612b347f-cd32-40ee-b7af-2cb16f9d0eb6)
+* [GitLab CI CD Tutorial for Beginners [Crash Course]](https://www.youtube.com/watch?v=qP8kir2GUgo)
 
 
 ## Træningsprogram: Installation af GitLab-server i en Docker-container som nybegynder
