@@ -1,3 +1,0 @@
-# GitLab Server
-
-[Description]
