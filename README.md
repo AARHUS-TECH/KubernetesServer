@@ -4,22 +4,12 @@
 
 Der er træningprogram i bunden af denne side
 
-
-[How does it work - What is needed]
-
-![image](https://github.com/AARHUS-TECH/KubernetesServer/assets/44589560/c2022613-435e-42b2-b547-aea8dc5b5b0d)
-
-## References
-https://rancherdesktop.io/
-https://github.com/rancher/rancher
-
-## Forslag til studie før at I går igang med opgaven
+## Forslag til studie før at du/I går igang med opgaven
 * Docker Crash Course for Absolute Beginners [NEW] - TechWorld with Nana
 * Kubernetes Crash Course for Absolute Beginners [NEW] - TechWorld with Nana
 * [Containers vs VMs: What's the difference? - IBM Technology](https://www.youtube.com/watch?v=cjXI-yxqGTI)
 
-## Forslag til træningsprogram
-Træningsprogram: Byg en Kubernetes-server - niveau nybegynder
+## Træningsprogram: Byg en Kubernetes-server - niveau nybegynder
 
 Dette træningsprogram tager dig gennem processen med at bygge en Kubernetes-server som nybegynder. Hver fase er opdelt i specifikke trin og forsynet med overskrifter for at gøre det nemt at følge med. Start med at læse og forstå introduktionen til Kubernetes og fortsæt derefter med de efterfølgende trin for at opnå en fungerende Kubernetes-server. God fornøjelse med din rejse ind i verden af Kubernetes!
 
