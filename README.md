@@ -5,8 +5,8 @@
 Der er træningprogram i bunden af denne side
 
 ## Forslag til studie før at du/I går igang med opgaven
-* Docker Crash Course for Absolute Beginners [NEW] - TechWorld with Nana
-* Kubernetes Crash Course for Absolute Beginners [NEW] - TechWorld with Nana
+* [Docker Crash Course for Absolute Beginners [NEW] - TechWorld with Nana](https://www.youtube.com/watch?v=pg19Z8LL06w))
+* [Kubernetes Crash Course for Absolute Beginners [NEW] - TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu4)
 * [Containers vs VMs: What's the difference? - IBM Technology](https://www.youtube.com/watch?v=cjXI-yxqGTI)
 
 ## Træningsprogram: Byg en Kubernetes-server - niveau nybegynder
