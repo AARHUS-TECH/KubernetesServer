@@ -16,7 +16,7 @@
 
 ## Træningsprogram: Installation af GitLab-server i en Docker-container som nybegynder
 
-Dette træningsprogram tager dig gennem processen med at installere en GitLab-server i en Docker-container som nybegynder. Hver fase er opdelt i specifikke trin og forsynet med overskrifter for at gøre det nemt at følge med. Start med at læse og forstå introduktionen til CI/CD og DevOps, og fortsæt derefter med de efterfølgende trin for at opnå en fungerende GitLab-server og opsætte en simpel CI/CD-pipeline. God fornøjelse med din rejse ind i verden af CI/CD og DevOps!
+Dette træningsprogram tager dig gennem processen med at installere en GitLab-server i en Docker-container som nybegynder. Hver fase er opdelt i specifikke trin og forsynet med overskrifter for at gøre det nemt at følge med. Start med at læse og forstå introduktionen til CI/CD og DevOps, og fortsæt derefter med de efterfølgende trin for at opnå en fungerende GitLab-server og opsætte en simpel CI/CD-pipeline. God fornøjelse med CI/CD og DevOps!
 
 ### Oversigt over processen:
 
