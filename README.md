@@ -15,7 +15,7 @@
 
 [What is a container]
 
-* (Containers vs VMs: What's the difference? - IBM Technology)[https://www.youtube.com/watch?v=cjXI-yxqGTI]
+* [Containers vs VMs: What's the difference? - IBM Technology](https://www.youtube.com/watch?v=cjXI-yxqGTI)
 
 ## Control software
 [Choose a system to help yoou control the Kubernetes cluster]
