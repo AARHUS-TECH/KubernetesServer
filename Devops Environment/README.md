@@ -4,8 +4,7 @@
 
 ![image](https://github.com/AARHUS-TECH/KubernetesServer/assets/44589560/d4b1d6c0-a1eb-49bb-9c6e-19feb58a8907)
 
-## Gitlabs
-[ Gitlabs why?]
+## GitLab server
 
 ![image](https://github.com/AARHUS-TECH/KubernetesServer/assets/44589560/935cb334-b098-4635-806c-a34bf3ec11d7)
 
