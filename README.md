@@ -2,7 +2,7 @@
 
 Her finder du opgaver til træning i Kubernetes, Docker og hvordan man opsætter en versionering server inklusiv et test og produktionsmiljø.
 
-Opgaver kan løses individuelt og i tilfældig rækkefølge, men i forhold til sværhedsgrad forslår vi følgende tilgang.
+Træningsprogrammet kan løses individuelt og i tilfældig rækkefølge, men i forhold til sværhedsgrad forslår vi følgende tilgang.
 
 ## Docker
 
