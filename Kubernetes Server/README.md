@@ -1,9 +1,5 @@
 # Kubernetes Server
 
-[Todo Intro]
-
-Der er træningprogram i bunden af denne side
-
 ## Forslag til studie før at du/I går igang med opgaven
 * [Docker Crash Course for Absolute Beginners [NEW] - TechWorld with Nana](https://www.youtube.com/watch?v=pg19Z8LL06w))
 * [Kubernetes Crash Course for Absolute Beginners [NEW] - TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu4)
