@@ -1,1 +1,0 @@
-# SKP Kubernetes Server Documentation
