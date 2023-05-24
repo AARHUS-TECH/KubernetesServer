@@ -5,7 +5,7 @@
 * [Kubernetes Crash Course for Absolute Beginners [NEW] - TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu4)
 * [Containers vs VMs: What's the difference? - IBM Technology](https://www.youtube.com/watch?v=cjXI-yxqGTI)
 
-## Træningsprogram: Byg en Kubernetes-server - niveau nybegynder
+## Træningsprogram: Byg en Kubernetes-server
 
 Dette træningsprogram tager dig gennem processen med at bygge en Kubernetes-server som nybegynder. Hver fase er opdelt i specifikke trin og forsynet med overskrifter for at gøre det nemt at følge med. Start med at læse og forstå introduktionen til Kubernetes og fortsæt derefter med de efterfølgende trin for at opnå en fungerende Kubernetes-server. God fornøjelse med din rejse ind i verden af Kubernetes!
 
